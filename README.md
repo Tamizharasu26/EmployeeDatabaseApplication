@@ -5,4 +5,5 @@ And also create a table named Employee to using the following query to store the
 
 '*create table employee(id INT primary key auto_increment, name varchar(50), department varchar(50), salary double);*'
 
-Also make sure you enter the user and password accordingly before working with the application****
+Also make sure you enter the user and password accordingly before working with the application.
+
